@@ -4,6 +4,7 @@ Collection of Tech resources
 # 1. System Design
 ##    a. System Design For Beginners
 Shivam Bhadani : [System Design for Beginners](https://medium.com/@shivambhadani_/system-design-for-beginners-everything-you-need-in-one-article-c74eb702540b) 
+
 Shivam Bhadani's Medium : [Medium Home page of Shivam](https://medium.com/@shivambhadani_)
 
 ##    b. Pattern related concept
