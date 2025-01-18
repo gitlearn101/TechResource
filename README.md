@@ -9,3 +9,7 @@ Shivam Bhadani's Medium : [Medium Home page of Shivam](https://medium.com/@shiva
 
 ##    b. Pattern related concept
 Striver : [Solve any Pattern Question - Trick Explained | 22 Patterns in 1 Shot](https://www.youtube.com/watch?v=tNm_NNSB3_w&list=PLgUwDviBIf0oF6QL8m22w1hIDC1vJ_BHz&index=5).
+
+# 2. Real-life projects
+##    a. Learn C# by Building a Simple RPG
+Scott Lilly : [Learn C# by Building a Simple RPG](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/) 
